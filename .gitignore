@@ -16,3 +16,6 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+# Personal notes / explanations (not for git)
+penjelasan_*.md
