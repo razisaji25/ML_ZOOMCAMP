@@ -40,5 +40,10 @@ A Jupyter kernel named **"Python (mlzoomcamp)"** is registered from this environ
 | Folder | Description |
 |---|---|
 | [01_Intro](01_Intro) | Introduction to ML: pandas basics, exploratory analysis, and a linear regression exercise on the Car Fuel Efficiency dataset. |
+| [02_Regresi](02_Regresi) | Regression. |
+| [03_Churn Analisis](03_Churn%20Analisis) | Churn analysis. |
+| [04_Metriks](04_Metriks) | Evaluation metrics for classification (ROC AUC, precision/recall, F1, cross-validation). |
+| [05_Deployment](05_Deployment) | Serving a lead-scoring model with FastAPI and Docker. |
+| [06_Trees](06_Trees) | Decision trees, random forests and XGBoost on car fuel efficiency. |
 
 Each folder has its own `README.md` describing its specific contents in more detail.

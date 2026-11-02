@@ -1,4 +1,4 @@
-# 4_Metriks
+# 04_Metriks
 
 Module: Evaluation Metrics for Classification — ROC AUC, precision, recall, F1, cross-validation, dan tuning parameter `C` pada dataset **Course Lead Scoring 2026**.
 
